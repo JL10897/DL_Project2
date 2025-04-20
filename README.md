@@ -21,4 +21,18 @@
   5. Noise injection
   6. Sentiment-based augmentation
 
-> 💡 *Both notebooks focus entirely on data augmentation to boost performance.*
+#### 🔀 Experimental Model: `Starter_Notebook_shuffle.ipynb`
+- **Final Test Accuracy**: **0.84325**
+- **Augmentation Methods Used**:
+  1. Synonym replacement
+  2. Deletion
+  3. Word swap
+  4. Sentence shuffling
+  5. Noise injection
+
+> ⚠️ *Incorporating sentiment-based augmentation did **not** lead to further improvement in performance for this model.*
+
+
+
+
+> 💡 *All notebooks in this section focus entirely on data augmentation to boost performance.*
