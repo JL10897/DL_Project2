@@ -30,6 +30,12 @@
   4. Sentence shuffling
   5. Noise injection
 
+#### /Experiments: `Version1_r4_lora16.ipynb`
+- **Final Test Accuracy**: **0.9234375**
+- **Parameters Used**:
+   1. r=4,
+   2. lora_alpha=16,
+
 > ⚠️ *Incorporating sentiment-based augmentation did **not** lead to further improvement in performance for this model.*
 
 
