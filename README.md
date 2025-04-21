@@ -40,13 +40,13 @@
 - **Final Test Accuracy**: **0.92344**
 - **Parameters Used**:
    1. r=4,
-   2. lora_alpha=16,
+   2. lora_alpha=16
 
 #### /Experiments: `Version1_r8_lora32.ipynb`
 - **Final Test Accuracy**: **0.91875**
 - **Parameters Used**:
-   1. r=4,
-   2. lora_alpha=32,
+   1. r=8,
+   2. lora_alpha=32
 
 > ⚠️ *Incorporating sentiment-based augmentation did **not** lead to further improvement in performance for this model.*
 
