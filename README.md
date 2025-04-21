@@ -30,7 +30,7 @@
   4. Sentence shuffling
   5. Noise injection
 
-#### /Experiments: `Version1_r4_lora16.ipynb`
+#### /Experiments: `Version1_r4_lora8.ipynb`
 - **Final Test Accuracy**: **0.91719**
 - **Parameters Used**:
    1. r=4,
@@ -42,7 +42,7 @@
    1. r=4,
    2. lora_alpha=16,
 
-#### /Experiments: `Version1_r4_lora16.ipynb`
+#### /Experiments: `Version1_r8_lora32.ipynb`
 - **Final Test Accuracy**: **0.91875**
 - **Parameters Used**:
    1. r=4,
