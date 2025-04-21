@@ -31,10 +31,22 @@
   5. Noise injection
 
 #### /Experiments: `Version1_r4_lora16.ipynb`
-- **Final Test Accuracy**: **0.9234375**
+- **Final Test Accuracy**: **0.91719**
+- **Parameters Used**:
+   1. r=4,
+   2. lora_alpha=8,
+
+#### /Experiments: `Version1_r4_lora16.ipynb`
+- **Final Test Accuracy**: **0.92344**
 - **Parameters Used**:
    1. r=4,
    2. lora_alpha=16,
+
+#### /Experiments: `Version1_r4_lora16.ipynb`
+- **Final Test Accuracy**: **0.91875**
+- **Parameters Used**:
+   1. r=4,
+   2. lora_alpha=32,
 
 > ⚠️ *Incorporating sentiment-based augmentation did **not** lead to further improvement in performance for this model.*
 
