@@ -1,4 +1,4 @@
-### Selected Models and Augmentation Strategies
+ ### Selected Models and Augmentation Strategies
 
 #### 📌 Final Submission: `Starter_Notebook_8625.ipynb`
 - **Public Score Selected**: Yes
@@ -57,4 +57,5 @@
 
 **Model's training and evaluation visualizations are included in codebase and wandb portal**
 
-<img width="1860" alt="image" src="https://github.com/user-attachments/assets/150d8aa2-9f3d-44d9-b291-49ca8a04a69d" />
+![image](https://github.com/user-attachments/assets/941b9a4d-012c-4a24-abb9-08117ccf5cf7)
+
